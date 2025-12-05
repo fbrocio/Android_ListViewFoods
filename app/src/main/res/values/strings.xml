@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ListViewFoods_FernandezRocio</string>
+    <string name="selection">Select a meal</string>
+    <string name="sushi_title">Sushi</string>
+    <string name="sushi_description">Rollitos de arroz con pescado y vegetales frescos</string>
+    <string name="ramen_title">Ramen</string>
+    <string name="ramen_description">Fideos en caldo intenso con toppings variados</string>
+    <string name="padthai_title">Pad Thai</string>
+    <string name="padthai_description">Fideos salteados con tamarindo, soja y cacahuetes</string>
+    <string name="springrolls_title">Spring Rolls</string>
+    <string name="springrolls_description">Rollitos crujientes rellenos de verduras y carne</string>
+    <string name="pho_title">Pho</string>
+    <string name="pho_description">Sopa ligera de fideos de arroz y carne</string>
+    <string name="nasigoreng_title">Nasi Goreng</string>
+    <string name="nasigoreng_description">Arroz frito especiado con huevo y verduras</string>
+    <string name="gyozas_title">Gyozas</string>
+    <string name="gyozas_description">Empanadillas fritas rellenas de carne y vegetales</string>
+    <string name="greencurry_title">Green Curry</string>
+    <string name="greencurry_description">Curry verde cremoso con coco y pollo</string>
+    <string name="kimchi_title">Kimchi</string>
+    <string name="kimchi_description">Col fermantada picante</string>
+    <string name="buncha_title">Bun Cha</string>
+    <string name="buncha_description">Cerdo a la parrilla con fideos y hierbas</string>
+    <string name="list_header">Title</string>
+    <string name="list_text">Description</string>
+</resources>
